@@ -1,6 +1,6 @@
-#Nine Inch Nails
-##Members
+# Nine Inch Nails
+## Members
 * Trent Reznor
 
-##Releases
-*Pretty Hate Machine
+## Releases
+* Pretty Hate Machine
